@@ -5,7 +5,9 @@ Dataset of the paper: Fast 3D rotation estimation of fruits using spheroid model
 This repository contains the dataset used in the submitted paper: Fast 3D rotation estimation of fruits using spheroid models. Currenrly under review.
 
 
-The dataset contains .....
+The data folder contains the images of the dataset for 3 types of fruits: mandarins, oranges, tomatoes. In each fruit folder there is information about
+the ground truth used to obtain the paper results.
+
 
 
 If you use this repository, please cite our paper:
